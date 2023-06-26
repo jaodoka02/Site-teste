@@ -1,0 +1,22 @@
+.navbar {
+    background-color:grey
+}
+.navbar-brand {
+   
+   color: rgb(59, 175, 94);
+   font-style: italic;
+}
+
+.card{
+    background-color: rgb(11, 12, 12);
+    color: rgb(255, 8, 8);
+}
+.d-block{
+    max-width: 130px;
+    max-height: 130%;
+    margin: 10px;
+}
+
+.letraimg{
+    color:white
+}
